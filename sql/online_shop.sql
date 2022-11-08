@@ -25,9 +25,7 @@ INSERT INTO `brands` (`brand_id`, `brand_title`) VALUES
 (2, 'Samsung'),
 (3, 'Sony'),
 (4, 'Microsoft'),
-(5, 'Google'),
-(6, 'HP'),
-(7, 'Dell');
+(5, 'Google');
 -- list of brands' products sold on the shop
 ALTER TABLE `brands`
   ADD PRIMARY KEY (`brand_id`);
