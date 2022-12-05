@@ -1,1 +1,10 @@
 README file
+Install XAMPP or WAMPP.
+Open XAMPP Control panel and start [apache] and [mysql] . might need to open config.ini to change port number to 4306 instead of 3306
+download file from github
+extract the files in C:\xampp\htdocs.
+open link localhost/phpmyadmin or click admin on control panel
+click on new at side navbar.
+give a database name as (demo) hit on create button.
+after creating database name click on import.
+go to localhost/folder_name_of_extracted_files_in_htdocs
